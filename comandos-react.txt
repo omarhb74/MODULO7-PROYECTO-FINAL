@@ -1,0 +1,4 @@
+crear nuevo proyecto 
+npx create-react-app calculadora-app
+instalar libreria de math
+npm install mathjs

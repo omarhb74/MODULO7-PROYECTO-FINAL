@@ -1,0 +1,14 @@
+.about{
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 40vh;
+        margin: 0 auto;
+        background-color: #07f17c;
+        height: 14vh;
+        border-radius: 30px;
+      
+
+}
